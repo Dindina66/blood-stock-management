@@ -1,0 +1,35 @@
+# Data Processing
+pandas==2.1.3
+numpy==1.24.3
+scipy==1.11.4
+
+# Time Series Forecasting - ARIMA
+statsmodels==0.14.0
+statsforecast==1.6.2
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Deep Learning & RL
+tensorflow==2.15.0
+torch==2.1.1
+
+# Reinforcement Learning
+gym==0.26.2
+gymnasum==0.2.1
+stable-baselines3==2.1.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+pandas-profiling==3.6.6
+
+# Testing & Development
+pytest==7.4.3
+jupyter==1.0.0
+ipython==8.17.2
